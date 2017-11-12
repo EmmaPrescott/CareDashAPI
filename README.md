@@ -2,11 +2,11 @@
 
 I created a RESTful API in python using flask, sqlalchemy (flask_sqlalchemy) and marshmallow (flask_marshmallow and marshmallow). I used an sqlite database. 
 
-Install
+Install:
 
 pip install -r requirements.txt
 
-Run
+Run:
 
 python app.py
 
