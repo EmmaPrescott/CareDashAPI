@@ -1,12 +1,12 @@
-# CareDashAPI
+# RestfulAPI
 
 I created a RESTful API in python using flask, sqlalchemy (flask_sqlalchemy) and marshmallow (flask_marshmallow and marshmallow). I used an sqlite database. 
 
-install
+Install
 
 pip install -r requirements.txt
 
-run
+Run
 
 python app.py
 
